@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - Linkedin - **https://www.linkedin.com/in/ayush-singh-3993ab201/**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
